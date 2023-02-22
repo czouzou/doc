@@ -235,6 +235,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [Plausible Analytics](https://plausible.io) |  Simple, Open Source, and privacy-friendly web analytics alternative to Google Analytics. | [Upstream](https://github.com/plausible/analytics) | |
 | Playmaker |  | [Upstream](https://github.com/NoMore201/playmaker) |  |
 | [plonecms](plone.org) | Create a modern website with a CMS written in Python |  | [Package Draft](https://github.com/YunoHost-Apps/plonecms_ynh) |
+| [PMB](https://www.sigb.net/) | Logiciel libre de bibliothèque | | | [forge](https://forge.sigb.net/projects/pmb/files) |
 | [Presentator](https://presentator.io/) | A design collaboration platform |  |  |
 | [Privoxy](https://www.privoxy.org) |  |  |  |
 | [ProcessMaker](https://www.processmaker.com) |  |  |  |
